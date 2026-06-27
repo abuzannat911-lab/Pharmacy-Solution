@@ -1,0 +1,6 @@
+{
+  "name": "Advanced Pharmacy Management",
+  "description": "An advanced pharmacy management system featuring real-time inventory tracking, smart AI prescription analyzer, automated drug-to-drug interaction checking, billing terminal, and patient history records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
